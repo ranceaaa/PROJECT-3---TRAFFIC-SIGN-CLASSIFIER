@@ -125,7 +125,7 @@ Also, two dropout layers were added. The last addition is L2 regularization.
 #### 1. Choose 6 traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
 ![alt text][image8] ![alt text][image9] ![alt text][image10] 
-![alt text][image11] ![alt text][image12] ![alt text][image12]
+![alt text][image11] ![alt text][image12] ![alt text][image13]
 
 
 #### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set.
