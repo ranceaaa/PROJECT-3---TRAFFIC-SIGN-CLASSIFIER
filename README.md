@@ -2,19 +2,19 @@
 
 [//]: # (Image References)
 
-[image1]: ./images/hist_train.jpg "Visualization Training Data Set"
-[image2]: ./images/hist_valid.jpg "Visualization Validation Data Set"
-[image3]: ./images/25.jpg "Image Visualization"
-[image4]: ./images/normalized.jpg "Normalized"
-[image5]: ./images/augmented.jpg "Augmented"
-[image6]: ./images/hist_train_new.jpg "Visualization New Training Data Set"
-[image7]: ./images/hist_valid_new.jpg "Visualization New Validation Data Set"
-[image8]: ./test_img/30.jpg "Traffic Sign 1"
-[image9]: ./test_img/no.jpg "Traffic Sign 2"
-[image10]: ./test_img/priority.jpg "Traffic Sign 3"
-[image11]: ./test_img/road_work.jpg "Traffic Sign 4"
-[image12]: ./test_img/stop.jpg "Traffic Sign 5"
-[image13]: ./test_img/stop2.jpg "Traffic Sign 6"
+[image1]: ./images/hist_train.png  "Visualization Training Data Set "
+[image2]: ./images/hist_valid.png "Visualization Validation Data Set"
+[image3]: ./images/25.png "Image Visualization"
+[image4]: ./images/normalized.png "Normalized"
+[image5]: ./images/augmented.png "Augmented"
+[image6]: ./images/hist_train_new.png "Visualization New Training Data Set"
+[image7]: ./images/hist_valid_new.png "Visualization New Validation Data Set"
+[image8]: ./test_img/30.jpg "Traffic Sign 1 =300x"
+[image9]: ./test_img/no.jpg "Traffic Sign 2 =300x"
+[image10]: ./test_img/priority.jpg "Traffic Sign 3 =300x"
+[image11]: ./test_img/road_work.jpg "Traffic Sign 4 =300x"
+[image12]: ./test_img/stop.jpg "Traffic Sign 5 =300x"
+[image13]: ./test_img/stop2.jpg "Traffic Sign 6 =300x"
 ---
 
 **Build a Traffic Sign Recognition Project**
