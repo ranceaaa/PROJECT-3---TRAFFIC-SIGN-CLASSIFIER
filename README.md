@@ -56,7 +56,7 @@ considering the signs have different colors, a RGB image is more usefull. Here i
 
 ![alt text][image4]
 
-After I tried the model for a few times I decided that I need to generate additional data. In this repository few datasets can be found. For example * new_x_train_data_3.p * has around 230.000 images and the goal of this data set was to get close to a relatively equal distribution. * new_x_train_data_6.p * used a different approach, creating data only by working with the pixel values and it contains around 100.000 images. In the notebook, I used * new_x_train_data_5.p * , the new data is composed by: zoom-in of the original image and left shift and right shift of the image. In the pictures below the new data set can be seen and you can compare the distribution with the original one.
+After I tried the model for a few times I decided that I need to generate additional data. In this repository few datasets can be found. For example *new_x_train_data_3.p* has around 230.000 images and the goal of this data set was to get close to a relatively equal distribution. *new_x_train_data_6.p* used a different approach, creating data only by working with the pixel values and it contains around 100.000 images. In the notebook, I used *new_x_train_data_5.p* , the new data is composed by: zoom-in of the original image and left shift and right shift of the image. In the pictures below the new data set can be seen and you can compare the distribution with the original one.
 
 ![alt text][image5]
 
